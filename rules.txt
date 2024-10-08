@@ -1,0 +1,27 @@
+When a piece moves to a square occupied by an opponent's piece, which is then removed from the board.
+A strategic move where the king and one rook move at the same time, done to increase the king's safety and the rook's activity.
+When a pawn reaches the far end of the board, it is promoted and replaced by a queen, rook, bishop, or knight of the same color. If it becomes a queen, the process is referred to as "queening" the pawn.
+The King moves one square in any direction—horizontally, vertically, or diagonally
+The Rook moves any number of squares horizontally and vertically along its row or column
+The Bishop moves any number of squares diagonally
+The Queen combines the movements of the Rook and Bishop, moving any number of squares in any direction
+The Knight (not “horse”) jumps in an "L" shape, two squares in one direction and one square perpendicular
+The Pawn moves one square forward, or two squares from its starting position, but moves diagonally to capture an opponent’s piece
+The motion of a Rook, Bishop, or Queen stops when it strikes an occupied square.
+A game of chess ends when the King on either side is captured, which is called a checkmate. Checkmate occurs when the player's king is in a position to be captured ("in check") and there is no legal move that the player can make to escape the check.
+A chess game can also end when the contestants agree to a draw, which is called a stalemate. A stalemate happens when a player has no legal moves left to make and their king is not in check. This results in a draw, meaning the game ends without a winner.
+These are the two main ways a game can end, but there are several other options:
+Resignation: A player may concede defeat at any point during the game, usually when they believe that loss is inevitable.
+Draw by agreement: Players can agree to a draw at any point during the game if both feel that a win by either side is unlikely.
+Draw by repetition: The game can end in a draw if the same position appears three times with the same player to move and all possible moves remain the same; the game is declared a draw to avoid a futile continuation.
+Fifty-move rule: A draw can be claimed if during the last fifty consecutive moves by each player, no pawn has been moved and no capture has been made; this rule prevents games from continuing indefinitely with no real action.
+Finally, a game of chess can also conclude when a player runs out of time. In timed games, if a player's clock expires and their opponent has enough material to theoretically deliver a checkmate, the player who runs out of time loses the game.
+However, if the opponent does not have sufficient material to checkmate, then the game results in a draw.
+King: Captures an enemy piece as it moves, taking one step in any direction.
+Queen: Can capture any opponent's piece along its path, moving as many squares as needed in any direction on the board.
+Rook: Captures enemy pieces as it moves as many squares horizontally or vertically as desired.
+Bishop: Takes an enemy piece by moving across as many squares diagonally as are available.
+Knight: Captures by leaping in an "L" shape, moving two squares in one direction and then one square perpendicular, jumping over any pieces in between.
+Pawn: Moves forward one square but captures by moving one square diagonally, targeting only enemy pieces. On its first move, it can choose to advance two squares.
+In castling, the king moves TWO squares toward one of its rooks on its original row. The rook then moves to the square immediately next to the king on the opposite side. In other words, the rook moves to the square that the king jumped over. This special move is not allowed if the King is in "Check" (i.e., threatened with capture by an opponent) or he King or Rook has already made a move, or the move of the Rook is obstructed, or the King or Rook after Castling would be exposed to capture
+Checkmate in chess occurs when a king is in a position to be captured (in check) and cannot escape from capture. This means there are no available moves for the king to move to a safe square, no other pieces can block the attack, and the attacking piece cannot be captured. A checkmate ends the game with the victory going to the player who delivers the checkmate.
